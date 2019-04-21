@@ -1,0 +1,1 @@
+print('hello python,hello world')  #直接打印输出你好，python，你好，世界。
